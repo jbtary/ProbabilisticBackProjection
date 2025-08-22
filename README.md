@@ -2,9 +2,9 @@
 
 In this repository are included the Matlab codes needed to carry out the probabilistic back-projection of an event. These codes were originally developed for the study Li and Gudmundsson, 2020, and extended for the study Tary et al., 2025. 
 
-To locate an event in 2D with a constant velocity, follow loc_whales_2d_oneevent.m
-To locate an event in 3D with a constant velocity, follow loc_whales_3d_oneevent.m
-To locate an event in 3D with a travel-time tables, follow loc_whales_tt_oneevent.m
+- To locate an event in 2D with a constant velocity, follow loc_whales_2d_oneevent.m
+- To locate an event in 3D with a constant velocity, follow loc_whales_3d_oneevent.m
+- To locate an event in 3D with a travel-time tables, follow loc_whales_tt_oneevent.m
 
 To make synthetic tests in 2D, 3D or using travel-time tables, follow synthetic_2d.m, synthetic_3d.m, and synthetic_tt.m.
 
