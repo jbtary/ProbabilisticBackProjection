@@ -20,4 +20,4 @@ References to be cited in publications using these codes:
 
 Li, K. L., & Gudmundsson, O. (2020). A probabilistic tremor location method. Geophysical Research Letters, 47(4), e2019GL085538.
 
-Tary, J. B., Poveda, S. F., Li, K. L., Peirce, C., Hobbs, R. W., & Vargas, C. A. (2025). Detection and localization of Bryde’s whale calls using machine learning and probabilistic back-projection. Journal of the Acoustical Society of America.
+Tary, J. B., Poveda, S. F., Li, K. L., Peirce, C., Hobbs, R. W., & Vargas, C. A. (2025). Detection and localization of Bryde’s whale calls using machine learning and probabilistic back-projection. The Journal of the Acoustical Society of America, 158(2), 1386-1397.
